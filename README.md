@@ -18,11 +18,11 @@ Esta ruta de aprendizaje le presenta el mundo del aprendizaje automático. Se le
 
 ## Módulos en esta ruta de aprendizaje
 
-> [Introducción al lanzamiento de cohetes]() <br/>
+> [Introducción al lanzamiento de cohetes](https://github.com/ZairBulos/prediccion-lanzamiento-cohetes/tree/main/01) <br/>
 > Obtenga una introducción sobre la forma en que la NASA elige una fecha para el lanzamiento de un cohete y descubra algunos aspectos básicos del aprendizaje automático.
 
-> [Recopilación y manipulación de datos]() <br/>
+> [Recopilación y manipulación de datos](https://github.com/ZairBulos/prediccion-lanzamiento-cohetes/tree/main/02) <br/>
 > Obtenga información sobre los pasos para importar datos en Python y limpiarlos para usarlos en la creación de modelos de Machine Learning.
 
-> [Compilación de un modelo de Machine Learning]() <br/>
+> [Compilación de un modelo de Machine Learning](https://github.com/ZairBulos/prediccion-lanzamiento-cohetes/tree/main/03) <br/>
 > Análisis local de los datos mediante scikit-learn y usará un clasificador de árbol de decisión para obtener información de datos meteorológicos y de lanzamiento de cohetes sin procesar.
